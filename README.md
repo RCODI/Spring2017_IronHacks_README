@@ -133,30 +133,32 @@ b) Cleaned Data. <br />
 c) Processed data. <br />
 d) Scripts. <br /> 
 
-# 1. Background Info
-# a) Task-Timeline-Prizes-Intervention design
+### Background Info
 
-# b) Technical platform used
+### a) Task-Timeline-Prizes-Intervention design
 
-# c) Training
+### b) Technical platform used
+
+### c) Training
 We trained the students prior and during the hack. Information on the presentation shown are here.
 
 Description and links for the material used to train the participants on the minimum technical knowledge needed to complete the task. Link here.
 
-## d) Individual feedback
+### d) Individual feedback
 
 
-## e) Judging and Evaluation criteria
+### e) Judging and Evaluation criteria
 
 
-## f) Survey Structure
+### f) Survey Structure
 
-## Data
-## a) Raw Data
+### Data
 
-## b) Cleaned data
+### a) Raw Data
 
-## c) Processed Data
+### b) Cleaned data
+
+### c) Processed Data
 
 
 ## d) Scripts
