@@ -1,5 +1,4 @@
 # Spring 2017 IronHacks ReadMe :wink:
-## Spring 2017 Purdue and Bogota IronHacks :neckbeard: 
 
 ### On the first part of this document, you will get a rough idea of the number of participants involved in the hacks. 
 
