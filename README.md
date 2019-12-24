@@ -140,9 +140,6 @@ d) Scripts. <br />
 ### b) Technical platform used
 
 ### c) Training
-We trained the students prior and during the hack. Information on the presentation shown are here.
-
-Description and links for the material used to train the participants on the minimum technical knowledge needed to complete the task. Link here.
 
 ### d) Individual feedback
 
