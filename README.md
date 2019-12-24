@@ -133,7 +133,7 @@ b) Cleaned Data. <br />
 c) Processed data. <br />
 d) Scripts. <br /> 
 
-### Background Info
+### Background Info  --------------------
 
 ### a) Task-Timeline-Prizes-Intervention design
 
@@ -149,7 +149,7 @@ d) Scripts. <br />
 
 ### f) Survey Structure
 
-### Data
+### Data  ----------------------------------
 
 ### a) Raw Data
 
