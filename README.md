@@ -8,7 +8,7 @@ Total number of Participants in each category for ALL Phase for Purdue Hack
 
 :grinning: Purdue Hack = 42 people 
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here] (https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/01%20Raw%20click%20data/01%20Purdue?preview=2017-08-12-12-36-scores+(1).csv))
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here]( https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv) 
 
 Total number of Participants in each category for ALL Phases for Bogota Hacks
 
