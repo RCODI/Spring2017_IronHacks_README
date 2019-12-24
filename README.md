@@ -112,14 +112,12 @@ Bogota 3 = 4 people
 Bogota 3 = 3 people
 
 
-## 03 Steps to Process the Data :blue_heart:
-
 ### The big excel sheet for spring 2017 is located at [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017?preview=Data_Cleaning_By_Jay.xlsx)
 ### This excel sheet will tell you who submit and who did not in each phase. 
 ### It will also tell you who do not have infovis score in a particular phase. The definition of "who do not have infovis score" is defined by the fact that they DID submit but their apps DO NOT compile. 
 
 
-Topics covered in this file:
+## 03 Topics covered in this ReadMe file:
 
 ### Background info
 1.1 Task-Timeline-Prices-Intervention Design <br />
