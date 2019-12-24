@@ -1,7 +1,7 @@
 # Spring 2017 IronHacks ReadMe :wink:
 ## Spring 2017 Purdue and Bogota IronHacks :neckbeard: 
 
-### During the first part of this document, you will read about the general process of the Gold Ironhacks. On the subsequent part, you will get a deeper understanding on the raw data collected. Finally, you will be guided through the process of how we transform the data collected.
+### On the first part of this document, you will get a rough idea of the number of participants involved in the hacks. 
 
 ## 00 Pre-Analysis of Participant :purple_heart: 
 
@@ -11,10 +11,10 @@ Total number of Participants in each category for ALL Phase for Purdue Hack
 
 Total number of Participants in each category for ALL Phases for Bogota Hacks
 
-:grinning: Bogota 0 = 43 people
-:grinning: Bogota 1 = 42 people
-:grinning: Bogota 2 = 41 people
-:grinning: Bogota 3 = 41 people
+:grinning: Bogota 0 = 43 people <br />
+:grinning: Bogota 1 = 42 people <br /> 
+:grinning: Bogota 2 = 41 people <br />
+:grinning: Bogota 3 = 41 people <br />
 
 ## 01 Raw Click Data :blue_heart: 
 
