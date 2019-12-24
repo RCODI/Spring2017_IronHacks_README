@@ -163,17 +163,17 @@ To go directly to the data location on Dropbox, click on this [Dropbox Link Here
 
 ### a) Raw Data
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw)
 
 ### b) Cleaned data
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-2%20Clean%20data)
 
 ### c) Processed Data
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-3%20processed%20data)
 
 ## d) Scripts
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-4%20scripts)
 
