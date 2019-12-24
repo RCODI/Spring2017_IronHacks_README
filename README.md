@@ -1,4 +1,4 @@
-# README File for Spring 2017 IronHacks :wink:
+# ReadMe File for Spring 2017 IronHacks :wink:
 
 ### On the first part of this document, you will get a rough idea of the number of participants involved in the hacks. 
 
