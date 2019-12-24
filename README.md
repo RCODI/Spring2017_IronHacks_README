@@ -21,11 +21,17 @@ For Purdue
 
 Click data for scores is located at 02 Data -> 2 - 1 Raw -> 01 Raw click data -> 01 Purdue -> 2017-08-12-12-36-scores.csv
 
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/01%20Raw%20click%20data/01%20Purdue?preview=2017-08-12-12-36-scores+(1).csv)
+
 For Bogota 
 
 Click data for topics is located at 02 Data -> 2 - 1 Raw -> 01 Raw Click data -> 02 Bogota -> 2017-04-28-01-16-topics.csv
 
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/01%20Raw%20click%20data/02%20Bogota?preview=2017-04-28-01-16-topics.csv)
+
 Click data for scores is located at 02 Data -> 2 - 1 Raw -> 01 Raw Click data -> 02 Bogota -> 2017-08-12-12-36-scores.csv
+
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/01%20Raw%20click%20data/02%20Bogota?preview=2017-08-12-12-36-scores.csv)
 
 
 ## 02 Detailed Analysis :green_heart: 
