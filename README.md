@@ -137,27 +137,27 @@ d) Scripts. <br />
 
 ### a) Task-Timeline-Prizes-Intervention design
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/01%20Background%20info/1-1%20Task-Timeline-Prizes)
 
 ### b) Technical platform used
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/01%20Background%20info/1-2%20Platform%20images)
 
 ### c) Training
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/01%20Background%20info/1-3%20Tutorials)
 
 ### d) Individual feedback
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/01%20Background%20info/1-5%20Individual%20Feedback)
 
 ### e) Judging and Evaluation criteria
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/01%20Background%20info/1-4%20Judging)
 
 ### f) Survey Structure
 
-To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017_cleaning/02%20Data/2-1%20Raw/00%20Participants/02%20Bogota?preview=users-2017-03-31-11-37-bogota-All.csv)
+To go directly to the data location on Dropbox, click on this [Dropbox Link Here](https://www.dropbox.com/home/09%20NSF%20open%20data/05%20Experiments%202017/01%20Hack%20Spring%202017/01%20repo%20Hack%20Spring%202017/01%20Background%20info/1-6%20survey%20structure)
 
 ### Data  ----------------------------------
 
