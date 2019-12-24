@@ -133,12 +133,12 @@ b) Cleaned Data. <br />
 c) Processed data. <br />
 d) Scripts. <br /> 
 
-## 1. Background Info
-## a) Task-Timeline-Prizes-Intervention design
+# 1. Background Info
+# a) Task-Timeline-Prizes-Intervention design
 
-## b) Technical platform used
+# b) Technical platform used
 
-## c) Training
+# c) Training
 We trained the students prior and during the hack. Information on the presentation shown are here.
 
 Description and links for the material used to train the participants on the minimum technical knowledge needed to complete the task. Link here.
