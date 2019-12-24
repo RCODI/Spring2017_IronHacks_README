@@ -117,7 +117,7 @@ Bogota 3 = 3 people
 ### It will also tell you who do not have infovis score in a particular phase. The definition of "who do not have infovis score" is defined by the fact that they DID submit but their apps DO NOT compile. 
 
 
-## 03 Topics covered in this ReadMe file :red_heart: 
+## 03 Topics covered in this ReadMe file :purple_heart: 
 
 ### Background info
 a) Task-Timeline-Prices-Intervention Design <br />
