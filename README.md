@@ -117,21 +117,21 @@ Bogota 3 = 3 people
 ### It will also tell you who do not have infovis score in a particular phase. The definition of "who do not have infovis score" is defined by the fact that they DID submit but their apps DO NOT compile. 
 
 
-## 03 Topics covered in this ReadMe file:
+## 03 Topics covered in this ReadMe file :red_heart: 
 
 ### Background info
-1.1 Task-Timeline-Prices-Intervention Design <br />
-1.2 Technical platform used. <br />
-1.3 Training. <br />
-1.4 Individual feedback. <br />
-1.5 Judging and Evaluation criteria. <br />
-1.6 Survey structure.<br />
+a) Task-Timeline-Prices-Intervention Design <br />
+b) Technical platform used. <br />
+c) Training. <br />
+d) Individual feedback. <br />
+e) Judging and Evaluation criteria. <br />
+f) Survey structure.<br />
 
 ### Data
-2.1 Raw data. <br /> 
-2.2 Cleaned Data. <br /> 
-2.3 Processed data. <br />
-2.4 Scripts. <br /> 
+a) Raw data. <br /> 
+b) Cleaned Data. <br /> 
+c) Processed data. <br />
+d) Scripts. <br /> 
 
 ## 1. Background Info
 ## 1.1. Task-Timeline-Prizes-Intervention design
